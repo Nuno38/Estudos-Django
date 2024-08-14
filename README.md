@@ -1,2 +1,2 @@
-# Estudos-Django
-Estudos baseado no Framework Django
+# Projeto-Django
+Projeto baseado no aprendizado no framework
